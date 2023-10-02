@@ -1,5 +1,5 @@
 # Hi there, I am Juan Pablo 👋
-I am a Junior Fullstack developer and a Software Engineering Student at Universidad Nacional de Colombia close to graduation 💻
+I am a Software engineer at Seguros Bolivar and a Software Engineer from the Universidad Nacional de Colombia 💻
 
 <details>
 	<summary>🛠<b>Skills</b></summary>
