@@ -34,4 +34,4 @@ I am a Software engineer at Seguros Bolivar and a Software Engineer from the Uni
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/juan-bonilla-gomez/)
 
 ## Github Stats
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jupbonillago&theme=react&line_height=40&hide=css"/> </a>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jupbonillago&layout=compact&langs_count=16&theme=dracula"/>
