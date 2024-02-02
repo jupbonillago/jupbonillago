@@ -1,5 +1,5 @@
 # Hi there, I am Juan Pablo 👋
-I am a Software engineer at Seguros Bolivar and a Software Engineer from the Universidad Nacional de Colombia 💻
+I am a Software Engineer at Seguros Bolivar with a bachelor degree from the Universidad Nacional de Colombia 💻
 
 <details>
 	<summary>🛠<b>Skills</b></summary>
